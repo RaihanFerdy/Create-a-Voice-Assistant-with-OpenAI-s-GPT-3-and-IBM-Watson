@@ -14,6 +14,7 @@ Author: [Talha Siddiqui](https://www.linkedin.com/in/talha01siddiqui/) & [Rohit 
 - [HTML](https://id.wikipedia.org/wiki/HTML)
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 - [Javascript](https://id.wikipedia.org/wiki/JavaScript)
+- [Docker](https://www.docker.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Preview
